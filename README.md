@@ -40,3 +40,6 @@ OTOBO bietet eine Reihe von Vorteilen für Unternehmen, die nach einer effizient
 ## Fazit
 
 OTOBO ist eine leistungsstarke, flexible und kosteneffiziente Lösung für das Ticketmanagement und den Kundenservice. Seine umfangreiche Funktionspalette, kombiniert mit der Möglichkeit zur Anpassung und Integration, macht es zu einer idealen Wahl für Unternehmen, die ihre Kundenservice-Prozesse optimieren möchten. Mit einer aktiven Community und einer robusten technischen Basis bietet OTOBO eine solide Plattform für die Verwaltung von Kundenanfragen und den Support.
+
+Erfahre mehr über das OTOBO Ticketsystem:
+[Softoft OTOBO Docs](https://www.softoft.de/otobo/docs)
